@@ -5,6 +5,7 @@ title = "IETE BITS"
 theme = "hugo-theme-dream"
 
 
+
 # copyright = ""
 
 # googleAnalytics = ""
@@ -17,6 +18,7 @@ theme = "hugo-theme-dream"
   background = "black"
   backgroundImage = "/img/1.jpg"
   linkColor = "seagreen"
+  favicon = "/img/logo.jpg"
 
   # dark mode
   # defaultDark = true
