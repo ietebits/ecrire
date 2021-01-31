@@ -1,0 +1,73 @@
+baseurl = "/"
+languageCode = "en"
+defaultContentLanguage = "en"
+title = "IETE BITS"
+theme = "hugo-theme-dream"
+
+
+# copyright = ""
+
+# googleAnalytics = ""
+
+# disqusShortname = ""
+
+# enableRobotsTXT = true
+
+[params]
+  background = "black"
+  backgroundImage = "/img/1.jpg"
+  linkColor = "seagreen"
+
+  # dark mode
+  # defaultDark = true
+  # backgroundDark = "black"
+  # backgroundImageDark = "/me/background-dark.jpg"
+  # darkLinkColor = "darkseagreen"
+  darkNav = true
+  dark404 = true
+
+  author = "IETE"
+  # description = ""
+  avatar = "/img/iete.png"
+  headerTitle = "Institution of Electronics and Telecommunication Engineers"
+  motto = "ÉCRIRE"
+  categoriesLimitInHeader = 6
+  #headerBottomText = ""
+
+  # rss = true
+
+  # utterancesRepo = ""
+
+  # valine = true
+  # LEANCLOUD_APP_ID = ""
+  # LEANCLOUD_APP_KEY = ""
+
+  email = "ietebits@gmail.com"
+  # twitter = ""
+   facebook = "ietebits/"
+   instagram = "ietebits/"
+  # mastodon = ""
+   linkedin = "company/ietebits/about/"
+  # github = ""
+  # stackoverflow = ""
+  # codepen = ""
+  siteStartYear = 2021
+
+  # favicon = "/favicon.ico"
+
+  # highlightjs = true
+  # highlightjsCDN = "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release/build/highlight.min.js"
+  # highlightjsExtraLanguages = ["ocaml"]
+  # highlightjsTheme = "gruvbox-light"
+  # highlightjsThemeDark = "gruvbox-dark"
+
+  # search
+  # enableSearch = true
+
+  # options
+  # showSummaryCoverInPost = true
+  # hasTwitterEmbed = true
+
+  # [params.advanced]
+  #   customCSS = ["css/custom.css"]
+  #   customJS = []
