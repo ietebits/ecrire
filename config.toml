@@ -47,10 +47,10 @@ theme = "hugo-theme-dream"
    facebook = "ietebits/"
    instagram = "ietebits/"
   # mastodon = ""
-   linkedin = "company/ietebits/about/"
-  # github = ""
+   linkedin = "company/ietebits/"
+   google = "https://ietebits.com/"
   # stackoverflow = ""
-  # codepen = ""
+   youtube = "https://www.youtube.com/channel/UC8xo4Ru1Pask-hOM7j_YO-Q"
   siteStartYear = 2021
 
   # favicon = "/favicon.ico"

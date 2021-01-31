@@ -48,16 +48,16 @@
 
   {{ if .Site.Params.linkedin }}
     <div class="item">
-      <a href="https://www.linkedin.com/in/{{ .Site.Params.linkedin }}" target="_blank">
+      <a href="https://www.linkedin.com/{{ .Site.Params.linkedin }}" target="_blank">
         <i class="{{ .IconSize }} linkedin icon" title="Linkedin"></i>
       </a>
     </div>
   {{ end }}
 
-  {{ if .Site.Params.github }}
+  {{ if .Site.Params.google }}
     <div class="item">
-      <a href="https://github.com/{{ .Site.Params.github }}" target="_blank">
-        <i class="{{ .IconSize }} github icon" title="GitHub"></i>
+      <a href="{{ .Site.Params.google }}" target="_blank">
+        <i class="{{ .IconSize }} google icon" title="Google"></i>
       </a>
     </div>
   {{ end }}
@@ -70,10 +70,10 @@
     </div>
   {{ end }}
 
-  {{ if .Site.Params.codepen }}
+  {{ if .Site.Params.youtube }}
     <div class="item">
-      <a href="https://codepen.io/{{ .Site.Params.codepen }}" target="_blank">
-        <i class="{{ .IconSize }} codepen icon" title="Codepen"></i>
+      <a href="{{ .Site.Params.youtube }}" target="_blank">
+        <i class="{{ .IconSize }} youtube icon" title="Youtube"></i>
       </a>
     </div>
   {{ end }}
