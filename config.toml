@@ -16,7 +16,7 @@ theme = "hugo-theme-dream"
 
 [params]
   background = "black"
-  backgroundImage = "/img/5.jpg"
+  backgroundImage = "/img/3.jpg"
   linkColor = "seagreen"
   favicon = "/img/logo.jpg"
 
